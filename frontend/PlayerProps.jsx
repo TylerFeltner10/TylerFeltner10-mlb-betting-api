@@ -1,0 +1,1 @@
+<React component placeholder — replaced in GitHub with latest UI>
